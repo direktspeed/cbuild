@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/charto/cbuild#readme",
   "dependencies": {
-    "bluebird": "^3.4.6",
+    "bluebird": "^3.4.7",
     "browser-resolve": "~1.11.2",
     "commander": "~2.9.0",
     "systemjs-builder": "~0.15.33"
