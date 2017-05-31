@@ -35,7 +35,7 @@
     "@types/commander": "^2.3.30",
     "@types/node": "^6.0.46",
     "docts": "~0.1.0",
-    "tslint": "^4.0.1",
+    "tslint": "^5.4.0",
     "typescript": "^2.0.8"
   }
 }
