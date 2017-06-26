@@ -31,7 +31,7 @@
     "systemjs-builder": "~0.15.33"
   },
   "devDependencies": {
-    "@types/bluebird": "^3.0.35",
+    "@types/bluebird": "^3.5.8",
     "@types/commander": "^2.3.30",
     "@types/node": "^7.0.4",
     "docts": "~0.1.0",
